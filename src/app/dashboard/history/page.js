@@ -1,4 +1,4 @@
-import Table from "../../../components/Table";
+import Table from "@/app/components/Table";
 import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuItem } from "@shadcn/ui";
 
 const mockData = [

@@ -1,5 +1,5 @@
-import Card from "../../../components/Card";
-import Chart from "../../../components/Chart";
+import Card from "@/app/components/Card";
+import Chart from "@/app/components/Chart";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@shadcn/ui";
 
 const mockData = [
